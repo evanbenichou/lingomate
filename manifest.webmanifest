@@ -1,0 +1,17 @@
+{
+  "name": "LingoMate AI",
+  "short_name": "LingoMate",
+  "start_url": "/lingomate/",
+  "scope": "/lingomate/",
+  "display": "standalone",
+  "background_color": "#f6f7f3",
+  "theme_color": "#1b5c4a",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
